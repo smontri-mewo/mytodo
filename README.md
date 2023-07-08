@@ -1,12 +1,3 @@
-# Introduction
-
-This web app built with a CLEAN stack (CLoudant NoSQL DB, Express, Angular and Node.js) is ready to be deployed on ICP (IBM Cloud Platform).
-
-![Todo](./images/screenshot.png)
-
-
-Watch this 6 mins <a href="https://youtu.be/XVVb-aLw9ow" target=”_blank”>YouTube video</a> to understand all the deployment steps below. Note: this video excludes the cluster provisioning.
-
 
 # How to deploy this app in Kubernetes?
 
@@ -68,12 +59,3 @@ Watch this 6 mins <a href="https://youtu.be/XVVb-aLw9ow" target=”_blank”>You
     > If you have a paid cluster, the url will be a domain name finishing with *.appdomain.cloud.
 
 Congratulations! Your app is up and running in the cluster.
-
-
-# Step by step Deployment
-
-Those two tutorials will show you in details how to deploy this step by step:
-
-* With IKS (IBM Cloud Kubernetes Service), follow this [tutorial](https://lionelmace.github.io/iks-lab)
-
-* With ICF (IBM Cloud Foundry), follow this [tutorial](https://github.com/lionelmace/ibmcloud-labs/tree/master/labs/Lab%20Cloud%20Foundry%20-%20Deploy%20TODO%20web%20application)
